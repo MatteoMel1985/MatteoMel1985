@@ -2,7 +2,7 @@
 
 And welcome to my page.  
 
-My name is Matteo Meloni, and I currently work as a FinOps Specialist at Amazon, where I have developed a strong foundation in data analysis, financial operations, and process engineering. I am now actively pursuing a transition into a Data Engineering role, bringing with me a data-driven mindset and a deep understanding of operational scalability.  
+My name is Matteo Meloni, and I currently work as a FinOps Specialist at Amazon, where I have developed a strong foundation in data analysis, financial operations, and process engineering. I am now actively pursuing a transition into a Data Engineering role, in which I bring a data-driven mindset and a deep understanding of operational scalability.  
 
 To support this career shift, I have completed several industry-recognised certifications, including the IBM Data Science Professional Certificate, with additional credentials listed on my profile. I am committed to staying at the forefront of the field through continuous learning and hands-on project work.  
 
