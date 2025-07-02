@@ -6,7 +6,7 @@ My name is Matteo Meloni, and I currently work as a FinOps Specialist at Amazon,
 
 To support this career shift, I have completed several industry-recognised certifications, including the IBM Data Science Professional Certificate, with additional credentials listed on my profile. I am committed to staying at the forefront of the field through continuous learning and hands-on project work.  
 
-My passion is producing detailed technical case studies that showcase my ability to design, implement, and explain data solutions. They include step-by-step guidance for others aiming to pass the same certifications, or to repeat the same procedure with cutting-edge accuracy. My goal is to contribute to data-driven organisations by combining technical proficiency with clear communication and practical insight.
+Rigorous technical case studies are a core part of how I demonstrate my ability to design, implement, and explain data solutions. They include step-by-step guidance for others aiming to pass the same certifications, or to repeat the same procedure with a high-degree of precision. I want to contribute to data-driven organisations by combining technical proficiency with clear communication and practical insight.
 
 
 <!--
