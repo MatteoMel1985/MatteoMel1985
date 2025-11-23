@@ -1,6 +1,6 @@
 ![Logo](https://github.com/MatteoMel1985/Relational-Dataset-Images/blob/main/Demo%20Logo/3_ASCII_1100w_20251122_142702.png?raw=true)
 
-<h1 align="center"><strong>Αγάπη!</strong></h1>
+<h1 align="center"><strong>Αγάπη</strong></h1>
 
 And welcome to my page.  
 
