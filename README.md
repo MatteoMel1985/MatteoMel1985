@@ -1,4 +1,4 @@
-![Logo](https://github.com/MatteoMel1985/Relational-Dataset-Images/blob/main/Demo%20Logo/3_ASCII_1100w_20251122_142702.png?raw=true)
+![Logo](https://github.com/MatteoMel1985/Relational-Dataset-Images/blob/main/Demo%20Logo/Artifex%20Datorum%20New.png?raw=true)
 
 <h1 align="center"><strong>Αγάπη</strong></h1>
 
